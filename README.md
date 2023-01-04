@@ -27,7 +27,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinDongHun1&&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-mallang&&show_icons=true&theme=buefy)
 
 
 <p align="center">
