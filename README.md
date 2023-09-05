@@ -1,18 +1,23 @@
 ## :octocat: Contributions
 
+- ### **spring-data-jpa**
+  - (PR) [https://github.com/spring-projects/spring-data-commons/pull/2903](https://github.com/spring-projects/spring-data-jpa/pull/3134)
+    - Apply code polishing to leverage various Java 17 structures.
+   
+
 - ### **spring-data-commons**
-  - (PR) https://github.com/spring-projects/spring-data-commons/pull/2903
+  - (PR) [https://github.com/spring-projects/spring-data-commons/pull/2903](https://github.com/spring-projects/spring-data-commons/pull/2903)
     - Document event publication from repository delete methods in AbstractAggregateRoot
 
 - ### **Hibernate**
-  - (PR) https://github.com/hibernate/hibernate-orm/pull/6169
-    - HHH-16233 Fix logs for mutable non-root entity
+  - (PR) [https://github.com/hibernate/hibernate-orm/pull/6169](https://github.com/hibernate/hibernate-orm/pull/6169)
+    - [HHH-16233](https://hibernate.atlassian.net/jira/software/c/projects/HHH/issues/HHH-16233?filter=allissues&jql=project%20%3D%20%22HHH%22%20AND%20%28text%20~%20%22HHH-16233%22%20OR%20issuekey%20%3D%20%22HHH-16233%22%29%20ORDER%20BY%20created%20DESC) Fix logs for mutable non-root entity
 
 - ### **spring-security**
-  - (PR) https://github.com/spring-projects/spring-security/pull/10970
-    - Polish UsernamePasswordAuthenticationFilter method
-  - (PR) https://github.com/spring-projects/spring-security/pull/11666
+  - (PR) [https://github.com/spring-projects/spring-security/pull/11666](https://github.com/spring-projects/spring-security/pull/11666)
     - Performance enhancement in HttpSessionRequestCache
+  - (PR) [https://github.com/spring-projects/spring-security/pull/10970](https://github.com/spring-projects/spring-security/pull/10970)
+    - Polish UsernamePasswordAuthenticationFilter method
 
 <br>
 <br>
