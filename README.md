@@ -1,4 +1,7 @@
 ## :octocat: Contributions
+- ### **spring-framework**
+  - (PR) [https://github.com/spring-projects/spring-framework/pull/31175#issuecomment-1710119341](https://github.com/spring-projects/spring-framework/pull/31175#issuecomment-1710119341)
+    - Polish resolveArgument method in RequestResponseBodyMethodProcessor
 
 - ### **spring-data-jpa**
   - (PR) [https://github.com/spring-projects/spring-data-commons/pull/2903](https://github.com/spring-projects/spring-data-jpa/pull/3134)
