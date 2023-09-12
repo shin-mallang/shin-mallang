@@ -1,4 +1,8 @@
 ## :octocat: Contributions
+- ### **mdm**
+  - (ISSUE) [https://github.com/mdn/content/issues/29019](https://github.com/mdn/content/issues/29019)
+    - Incorrect description of HTTP Private Cache
+
 - ### **spring-framework**
   - (PR) [https://github.com/spring-projects/spring-framework/pull/31175](https://github.com/spring-projects/spring-framework/pull/31175)
     - Polish resolveArgument method in RequestResponseBodyMethodProcessor
