@@ -3,7 +3,7 @@
   - (ISSUE) [https://github.com/mdn/content/issues/29019](https://github.com/mdn/content/issues/29019)
     - Incorrect description of HTTP Private Cache
     - and (PR) [https://github.com/mdn/content/pull/29064](https://github.com/mdn/content/pull/29064)
-      - Suggestions for edits.
+      - fix wrong explanation about cache-control and authroization header
 
 - ### **spring-framework**
   - (PR) [https://github.com/spring-projects/spring-framework/pull/31175](https://github.com/spring-projects/spring-framework/pull/31175)
