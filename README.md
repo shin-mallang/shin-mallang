@@ -1,4 +1,7 @@
 ## :octocat: Contributions
+- ### **apache/tomcat**
+  - (PR) [https://github.com/apache/tomcat/pull/669](https://github.com/apache/tomcat/pull/669)
+    - Relocate the useCompression check and apply parts back to back
 - ### **mdm**
   - (ISSUE) [https://github.com/mdn/content/issues/29019](https://github.com/mdn/content/issues/29019)
     - Incorrect description of HTTP Private Cache
