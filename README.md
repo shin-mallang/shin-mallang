@@ -13,6 +13,8 @@
     - Polish resolveArgument method in RequestResponseBodyMethodProcessor
   - (PR) [https://github.com/spring-projects/spring-framework/pull/31244](https://github.com/spring-projects/spring-framework/pull/31244)
     - Use List#isEmpty() in DispatcherServlet
+  - (PR) [https://github.com/spring-projects/spring-framework/pull/31245#issuecomment-1722262936](https://github.com/spring-projects/spring-framework/pull/31245#issuecomment-1722262936)
+    - Replace double spaces with single spaces in code and comments in spring-webmvc
 
 - ### **spring-data-jpa**
   - (PR) [https://github.com/spring-projects/spring-data-commons/pull/2903](https://github.com/spring-projects/spring-data-jpa/pull/3134)
