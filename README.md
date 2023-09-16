@@ -11,12 +11,13 @@
 - ### **spring-framework**
   - (PR) [https://github.com/spring-projects/spring-framework/pull/31175](https://github.com/spring-projects/spring-framework/pull/31175)
     - Polish resolveArgument method in RequestResponseBodyMethodProcessor
+  - (PR) [https://github.com/spring-projects/spring-framework/pull/31244](https://github.com/spring-projects/spring-framework/pull/31244)
+    - Use List#isEmpty() in DispatcherServlet
 
 - ### **spring-data-jpa**
   - (PR) [https://github.com/spring-projects/spring-data-commons/pull/2903](https://github.com/spring-projects/spring-data-jpa/pull/3134)
     - Apply code polishing to leverage various Java 17 structures.
    
-
 - ### **spring-data-commons**
   - (PR) [https://github.com/spring-projects/spring-data-commons/pull/2903](https://github.com/spring-projects/spring-data-commons/pull/2903)
     - Document event publication from repository delete methods in AbstractAggregateRoot
