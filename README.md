@@ -1,4 +1,7 @@
 ## :octocat: Contributions
+- ### **spring-boot**
+  - (PR) [https://github.com/spring-projects/spring-boot/pull/37434](https://github.com/spring-projects/spring-boot/pull/37434)
+    - Remove duplicate code in NettyWebServerFactoryCustomizer
 - ### **apache/tomcat**
   - (PR) [https://github.com/apache/tomcat/pull/669](https://github.com/apache/tomcat/pull/669)
     - Relocate the useCompression check and apply parts back to back
