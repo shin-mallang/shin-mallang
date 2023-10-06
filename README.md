@@ -19,7 +19,6 @@
     - Polish resolveArgument method in RequestResponseBodyMethodProcessor
   - (PR) [https://github.com/spring-projects/spring-framework/pull/31244](https://github.com/spring-projects/spring-framework/pull/31244)
     - Use List#isEmpty() in DispatcherServlet
-    - Additionally, commented on the use of static and non-static methods to help ensure that they are used consistently.
   - (PR) [https://github.com/spring-projects/spring-framework/pull/31245](https://github.com/spring-projects/spring-framework/pull/31245)
     - Replace double spaces with single spaces in code and comments in spring-webmvc
 - ### **spring-data-jpa**
