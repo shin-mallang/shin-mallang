@@ -9,7 +9,7 @@
 - ### **spring-boot**
   - (PR) [https://github.com/spring-projects/spring-boot/pull/37434](https://github.com/spring-projects/spring-boot/pull/37434)
     - Remove duplicate code in NettyWebServerFactoryCustomizer
-- ### **mdm**
+- ### **mdn**
   - (ISSUE) [https://github.com/mdn/content/issues/29019](https://github.com/mdn/content/issues/29019)
     - Incorrect description of HTTP Private Cache
     - and (PR) [https://github.com/mdn/content/pull/29064](https://github.com/mdn/content/pull/29064)
