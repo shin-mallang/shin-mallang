@@ -1,7 +1,7 @@
 ## :octocat: Contributions
 
 - ### **Hibernate**
-  - (PR) [[HHH-16233](https://hibernate.atlassian.net/jira/software/c/projects/HHH/issues/HHH-16233?filter=allissues&jql=project%20%3D%20%22HHH%22%20AND%20%28text%20~%20%22HHH-16233%22%20OR%20issuekey%20%3D%20%22HHH-16233%22%29%20ORDER%20BY%20created%20DESC) Fix logs for mutable non-root entity]((https://github.com/hibernate/hibernate-orm/pull/6169))
+  - (PR) [HHH-16233 Fix logs for mutable non-root entity]((https://github.com/hibernate/hibernate-orm/pull/6169))
 - ### **spring-data-commons**
   - (PR) [Document event publication from repository delete methods in AbstractAggregateRoot](https://github.com/spring-projects/spring-data-commons/pull/2903)
 - ### **spring-boot**
