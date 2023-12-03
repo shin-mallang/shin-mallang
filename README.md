@@ -11,6 +11,7 @@
   - (PR) [fix wrong explanation about cache-control and authroization header](https://github.com/mdn/content/pull/29064)
 - ### **spring-framework**
   - (PR) [Polish resolveArgument method in RequestResponseBodyMethodProcessor](https://github.com/spring-projects/spring-framework/pull/31175)
+  - (PR) [Fix Javadoc for `MockRestServiceServer.bindTo(RestClient.Builder)`](https://github.com/spring-projects/spring-framework/pull/31741)
   - (PR) [Use List#isEmpty() in DispatcherServlet](https://github.com/spring-projects/spring-framework/pull/31244)
   - (PR) [Replace double spaces with single spaces in code and comments in spring-webmvc](https://github.com/spring-projects/spring-framework/pull/31245)
 - ### **spring-data-jpa**
