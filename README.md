@@ -6,6 +6,7 @@
   - (PR) [Document event publication from repository delete methods in AbstractAggregateRoot](https://github.com/spring-projects/spring-data-commons/pull/2903)
 - ### **spring-boot**
   - (PR) [Remove duplicate code in NettyWebServerFactoryCustomizer](https://github.com/spring-projects/spring-boot/pull/37434)
+  - (PR) [Rename local variable in BatchAutoConfiguration](https://github.com/spring-projects/spring-boot/pull/38674)
 - ### **mdn**
   - (ISSUE) [Incorrect description of HTTP Private Cache](https://github.com/mdn/content/issues/29019)
   - (PR) [fix wrong explanation about cache-control and authroization header](https://github.com/mdn/content/pull/29064)
