@@ -37,7 +37,7 @@
 <br>
 
 ### ETC
-- 유니톤 11회 특별상 : [땅땅땅](https://unit-center.notion.site/77f62927c61b4059bd8ad9a21e5097c9)
+- 유니톤 11TH 특별상 : [땅땅땅](https://unit-center.notion.site/77f62927c61b4059bd8ad9a21e5097c9)
 
 <br>
 <br>
